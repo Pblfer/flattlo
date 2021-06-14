@@ -1,0 +1,8 @@
+{
+  "name": "Flattlo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "7e85d131"
+}

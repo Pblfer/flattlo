@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Flattlo",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
